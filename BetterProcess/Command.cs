@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+This code is based on work from Mark Byers:
+http://stackoverflow.com/a/7608823/83418
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Collections.Concurrent;
 using System.Threading;
