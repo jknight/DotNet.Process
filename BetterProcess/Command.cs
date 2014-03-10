@@ -56,7 +56,7 @@ namespace BetterProcess
             return output;
         }
 
-        //TODO: is there an issue of the command doesn't output anything (or is this a pipe problem?)
+        //TODO: is there an issue if the command doesn't output anything (or is this a pipe problem?)
         private List<string> Strategy2(string fileName, string args, Process process, CancellationToken cancellationToken)
         {
             var stdout = new List<string>();
