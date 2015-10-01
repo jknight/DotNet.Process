@@ -1,14 +1,14 @@
-DotNet Better Process
-=====================
+# DotNet.Process
 
-This code addresses headaches, heartaches, and long nights of lost sleep related to .Net's 
-System.Diagnostics.Process. 
+![DotNet.Config](https://raw.githubusercontent.com/jknight/DotNet.Process/master/DotNet.Process.png "DotNet.Process")
 
-It's not really poor Process's fault: we can't expect it to know
-some .exe out there is going to return 2 gigs of messages. It can't possibly anticipate that
-some random .exe may or may not turn into a zombie 2 hours into running. 
+## About 
 
-But this code wraps it up a little to save everyone some trouble.
+This code addresses headaches, heartaches, and long nights of lost sleep related to .Net's System.Diagnostics.Process. 
+
+## Why ?
+
+## Features
 
 This code is for you if:
 
